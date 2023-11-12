@@ -3,5 +3,9 @@ def add (x,y){
 }
 
 def mul (x,y){
-    echo "the mul of ${x} and ${y} is ${x*Y}" 
+    echo "the mul of ${x} and ${y} is ${x*y}" 
+}
+
+def call(){
+    echo "welcome jenkins"
 }
